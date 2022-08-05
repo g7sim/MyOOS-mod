@@ -1,6 +1,7 @@
 # [MyOOS [Shop system]](https://www.oos-shop.de) 
 ===============
 
+Up to [Version 24.40] (https://github.com/r23/MyOOS/releases/tag/v.24.40) it contains a progressed version of Mysqldumper.
 
 MyOOS is an open source community project. The goals are a particularly high degree of adaptability, speed and high performance. The shopbuilding system should be equipped with all basic functions for online sales, ordering, payment, statistics and administration.
 
